@@ -36,3 +36,5 @@ console.log(yetAnotherCar.honk);
 console.log("This new car can honk, too:");
 yetAnotherCar.honk();
 console.log("----")
+
+
